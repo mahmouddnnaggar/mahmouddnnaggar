@@ -9,8 +9,6 @@ A Front-End Developer with expertise in HTML, CSS, Bootstrap, JavaScript, SASS, 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mahmoudelnaggar\_@outlook.com](mailto:mahmoudelnaggar_@outlook.com)
 * 🧠  I'm learning React, NextJs
-* ⚡  I'm secretly Batman... but I don't tell anyone
-
 ### Skills
 
 
